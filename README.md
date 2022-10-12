@@ -9,13 +9,14 @@ A Simple Note taking web application for sharing notes among friends and colleag
 - Container : Apache Tomcat
 
 
-<h2 align = "center">----Project Demo----</h2> <br>
+<h1 align = "center">Project Demo</h1>
 
 ## Front Page :
 
 This is the front page of Note Taker application. We can start adding notes by
 clicking ‘Add Notes’ on Menu bar or by clicking on ‘Start here’ in the middle
 of the page.
+
 <br>
 <img src = "Project Preview/M1.png" alt = "Home Page"> <br>
 
@@ -23,6 +24,7 @@ of the page.
 
 This is the Add Notes page where you can add the title and content of your new
 note. You can save the note created by clicking on ‘Add’ button at the bottom.
+
 <br>
 <img src = "Project Preview/M2.png" alt = "Add Notes Page"> <br>
 
@@ -30,6 +32,7 @@ After clicking on ‘Add’ button, following page appears which gives the
 message that ‘Note is added successfully’. By clicking on ‘View all notes’, we
 can navigate to ‘All Notes Page’ where you can see all the notes created till now
 on this application.
+
 <br>
 <img src = "Project Preview/M3.png" alt = "SaveNoteServlet Page"> <br>
 
@@ -37,6 +40,7 @@ on this application.
 
 This is the all notes page where you can view all the notes saved on the
 database.
+
 <br>
 <img src = "Project Preview/M4.png" alt = "All Notes Page"> <br>
 
@@ -44,6 +48,7 @@ database.
 
 We can also update any previously created note by clicking on ‘Update’ button.
 Let’s update the following note titled ‘Hibernate’ by clicking on Update button.
+
 <br>
 <img src = "Project Preview/M5.png" alt = "All Notes Page"> <br>
 
@@ -52,10 +57,12 @@ Let’s update the following note titled ‘Hibernate’ by clicking on Update b
 Following is the Edit Note Page for the note titled ‘Hibernate’. When you are
 done making the changes, click on ‘Save your note’ button available at the
 bottom. The note will be updated immediately.
+
 <br>
 <img src = "Project Preview/M6.png" alt = "Edit Notes Page"> <br>
 
 Notice the changes done in the updated note:
+
 <br>
 <img src = "Project Preview/M7.png" alt = "Edit Notes Page"> <br>
 
