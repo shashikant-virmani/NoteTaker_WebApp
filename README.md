@@ -18,7 +18,7 @@ clicking ‘Add Notes’ on Menu bar or by clicking on ‘Start here’ in the m
 of the page.
 
 <br>
-<img src = "Project Preview/M1.png" alt = "Home Page"> <br>
+<img src = "Project Preview/M1.png" alt = "Home Page"> 
 
 ## Add Notes Page :
 
@@ -34,7 +34,7 @@ can navigate to ‘All Notes Page’ where you can see all the notes created til
 on this application.
 
 <br>
-<img src = "Project Preview/M3.png" alt = "SaveNoteServlet Page"> <br>
+<img src = "Project Preview/M3.png" alt = "SaveNoteServlet Page"> 
 
 ## All Notes Page :
 
@@ -42,7 +42,7 @@ This is the all notes page where you can view all the notes saved on the
 database.
 
 <br>
-<img src = "Project Preview/M4.png" alt = "All Notes Page"> <br>
+<img src = "Project Preview/M4.png" alt = "All Notes Page"> 
 
 ## Update Notes :
 
@@ -50,7 +50,7 @@ We can also update any previously created note by clicking on ‘Update’ butto
 Let’s update the following note titled ‘Hibernate’ by clicking on Update button.
 
 <br>
-<img src = "Project Preview/M5.png" alt = "All Notes Page"> <br>
+<img src = "Project Preview/M5.png" alt = "All Notes Page"> 
 
 ## Edit Notes Page :
 
@@ -64,7 +64,7 @@ bottom. The note will be updated immediately.
 Notice the changes done in the updated note:
 
 <br>
-<img src = "Project Preview/M7.png" alt = "Edit Notes Page"> <br>
+<img src = "Project Preview/M7.png" alt = "Edit Notes Page">
 
 ## Delete Note :
 
